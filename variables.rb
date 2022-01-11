@@ -9,3 +9,8 @@ weight = 180.5
 good_looking = true
 conceited = true
 actually_good_looking = false
+
+
+first_name = "Stephanie"
+last_name = "Wambam"
+middle_name = "Ann-Marie"
