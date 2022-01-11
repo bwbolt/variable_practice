@@ -1,5 +1,8 @@
+#Assigns the variable "first_name" the string value of "Bryce"
 first_name = "Bryce"
+#Assigns the variable "last_name" the string value of "Wein"
 last_name = "Wein"
+#Assigns the variable "middle_name" the string value of "Edward"
 middle_name = "Edward"
 
 age = 29
